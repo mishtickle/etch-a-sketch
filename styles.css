@@ -1,0 +1,27 @@
+
+.container{
+    width: 100%;
+} 
+
+.column{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 0 0;
+}
+.rows{
+    margin: 0 0 0 0;
+}
+p{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    justify-self: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
